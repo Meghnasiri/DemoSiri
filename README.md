@@ -48,5 +48,3 @@ The Jira Stories Test Case Generation Application is a Spring Boot application d
    GET http://localhost:8080/api/v1/jira-story?storyKey=SCRUM-2
 
 
-## CREDITS
-Raghu The Security Expert and ASG
